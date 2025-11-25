@@ -1,0 +1,23 @@
+Tên dự án: 3d shopping website
+1. Mô tả dự án:
+1.1 Mô tả sơ bộ:
+Website này được tạo ra nhằm mục đích cốt lõi là giúp các visitor xem được toàn bộ chi tiết sản phẩm thông qua trải nghiệm 3d của từng sản phẩm. Trang web này không phải để người dùng mua sắm, mà để người dùng tìm hiểu sản phẩm thật kĩ và tương tác được với mô hình để có trải nghiệm thật hơn.
+Website này phải tương thích 100% với màn hình điện thoại, bởi vì đại đa số vistor đến với trang web này đều là người sử dụng điện thoại.
+Khi người dùng truy cập vào trang home, từng danh mục sản phẩm sẽ được liệt kê ra như đồ chơi, xe, điện thoại, lap top, ...
+Ở trang home sẽ có các nội dung sau:
+ - Menubar (Logo, Home, Danh mục sản phẩm, Giỏ hàng, Tài khoản)
+ - Các sản phẩm đề xuất
+ - Danh mục điện thoại
+ - Danh mục laptop
+ - Danh mục đồ chơi
+ - Danh mục xe
+ - Mỗi danh mục sẽ có nhiều card sản phẩm, card chứa: hình ảnh ban đầu của sản phẩm, tên sản phẩm, giá. Mỗi danh mục sẽ trình bày toàn bộ sản phẩm theo hàng ngang, chứa 10 sản phẩm (hiển thị trước 2 đến 3 sản phẩm), có thể lướt qua để xem thêm các sản phẩm (các sản phẩm tiếp theo sẽ cuộn theo).
+ - Phần hiển thị các video quảng cáo sản phẩm
+ - Phần footer hiển thị các thông tin cần thiết
+
+Khi nhấn vào một card sản phẩm, trang chi tiết sản phẩm sẽ xuất hiện. Tại đây sẽ trình bày các nội dung sau:
+ - Mô hình 3d của sản phẩm, visitor có thể tương tác với mô hình đó (zoom, xoay, ...)
+ - Bên cạnh mô hình 3d đó là trình bày hình ảnh từng chi tiết của sản phẩm (ví dụ như camera, màn hình, mặt lưng, ...) và các linh kiện (ví dụ như cpu, ram, các cảm biến trong camera, ...)
+ - Nút mua ngay của sản phẩm, khi người dùng nhấn vào sẽ trỏ đến link sản phẩm mà visitor cần mua (affiliate)
+ - Những video về sản phẩm
+ - Review đánh giá sản phẩm
